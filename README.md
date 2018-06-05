@@ -8,6 +8,6 @@
 *    2.1. Taller 0: Pancakes
 *    2.2. Taller 1
 *    2.3. Taller 2: Caminos más cortos desde una fuente
-*    2.4. Taller 2: Grafos, Complejidad Computacional, Programación Dinámica
+*    2.4. Taller 3: Grafos, Complejidad Computacional, Programación Dinámica
     
 Paula Caballero. 1069764849
