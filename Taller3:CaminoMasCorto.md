@@ -1,4 +1,4 @@
-# Taller 2: Camino mas corto en grafos desde una sola fuente
+# Taller 3: Camino mas corto en grafos desde una sola fuente
 
 ### 1.
 * Grafo a)
